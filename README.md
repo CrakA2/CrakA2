@@ -6,7 +6,7 @@ I'm Adarsh Abhinav, also known as Crak 🚀. I'm a tech enthusiast with a passio
 
 - Programming Languages: Python 🐍, Bash 🚀, JavaScript 💻
 - Web Development: React ⚛️, Next.js ⏭️
-- Notable Project: [CrakAPI](https://github.com/your-username/crakapi) 🎯 - Valorant Stats API endpoints
+- Notable Project: [CrakAPI](https://github.com/CrakA2/crakapi) 🎯 - Valorant Stats API endpoints
 
 **🎨 Other Interests**
 
