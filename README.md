@@ -133,13 +133,9 @@ Aquascaping 🐟
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-<!-- Markdown -->
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
  
-<!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 <div align="center">
