@@ -15,7 +15,9 @@ I'm Adarsh Abhinav, also known as Crak 🚀. I'm a tech enthusiast with a passio
 - ❓ Ask me about anything if you need help for your next lab or gaming pc  
   
 
-- When I'm not coding, you can find me exploring various hobbies and interests, including:  
+- When I'm not coding, you can find me exploring various hobbies and interests, including:
+
+- Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related! 🤝
   
 
 ##### 
@@ -141,14 +143,9 @@ Aquascaping 🐟
 </div>  
   
 
-<br/>  
-
-<div align="center"></div>
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related! 🤝
+
 <!---
 CrakA2/CrakA2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
