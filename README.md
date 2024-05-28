@@ -126,15 +126,21 @@ Aquascaping 🐟
 
 <br/>  
 
+## Cheer up
+
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<!-- Markdown -->
 
-<br/>  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CrakA2&&style=flat-square" align="center" />
