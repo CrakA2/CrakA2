@@ -6,9 +6,6 @@ I'm Adarsh Abhinav, also known as Crak 🚀. I'm a tech enthusiast with a passio
 </div>  
   
 
-### <div align="center">Hi this is Crak A2, just a random tech guy</div>  
-  
-
 - 🔭 I’m currently working on Project BearBot  
   
 
@@ -129,8 +126,6 @@ Aquascaping 🐟
 
 <br/>  
 
-
-## Recent Blog Posts  
   
 
 <br/>  
