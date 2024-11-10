@@ -16,10 +16,6 @@ I'm Adarsh Abhinav, also known as Crak 🚀. I'm a tech enthusiast with a passio
   
 
 - When I'm not coding, you can find me exploring various hobbies and interests, including:
-
-- Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related! 🤝
-  
-
 ##### 
 Graphic Design 🎨
 Beyblading 💫
@@ -30,6 +26,11 @@ Pet Keeping 🐶
 3D Modeling & VFX 🎥
 Aquascaping 🐟  
   
+
+- Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related! 🤝
+  
+
+
 
 <br/>  
 
